@@ -1,0 +1,22 @@
+{
+  "name": "generator-moog",
+  "description": "Moog layout generator",
+  "main": "generators/index.js",
+  "authors": [
+    "[object Object]"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "moog",
+    "layout",
+    "yeoman-generator"
+  ],
+  "homepage": "https://github.com/pilotfish-git/generator-moog",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
